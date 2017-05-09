@@ -1,0 +1,325 @@
+gcc -o nets main.c -lpcap
+sudo 
+./nets wlp2s0 arp 
+
+
+
+Args : 	./nets	wlp2s0	
+arp
+Activation complete
+
+Sniffing starting on wlp2s0 ...
+
+-------------------------
+
+Received packet number 0 ==> 60
+
+
+Ethernet Layer 
+	
+	Source:	00:22:68:57:c1:3e:
+	
+	Dest:	FF:FF:FF:FF:FF:FF:
+	
+	Type:	 ARP
+
+ARP Layer 
+	
+	Hardware type:	256
+	
+	Protocol type:	08
+	
+	Hardware addresses length:	6
+	
+	Protocol addresses length:	4
+	
+	Operation code:	1
+	
+	Hardware sender:	67cb109c:67cb109c:67cb109c:67cb109c:67cb109c:67cb109c:
+	
+	Software sender:	67cb10a2:67cb10a2:67cb10a2:67cb10a2:
+
+
+Now is time: 1494325879 
+
+-------------------------
+-------------------------
+
+
+Received packet number 1 ==> 60
+
+
+Ethernet Layer 
+	
+	Source:	00:22:68:57:c1:3e:
+	
+	Dest:	FF:FF:FF:FF:FF:FF:
+	
+	Type:	 ARP
+
+
+ARP Layer 
+	
+	Hardware type:	256
+	
+	Protocol type:	08
+	
+	Hardware addresses 
+	length:	6
+	
+	Protocol addresses length:	4
+	
+	Operation code:	1
+	
+	Hardware sender:	67cf109c:67cf109c:67cf109c:67cf109c:67cf109c:67cf109c:
+	
+	Software sender:	67cf10a2:67cf10a2:67cf10a2:67cf10a2:
+
+
+Now is time: 1494325889
+
+-------------------------
+-------------------------
+
+
+Received packet number 2 ==> 60
+
+
+Ethernet Layer 
+	
+	Source:	00:22:68:57:c1:3e:
+	
+	Dest:	FF:FF:FF:FF:FF:FF:
+	
+	Type:	 ARP
+
+ARP Layer 
+	
+	Hardware type:	256
+	
+	Protocol type:	08
+	
+	Hardware addresses length:	6
+	
+	Protocol addresses length:	4
+	
+	Operation code:	1
+	
+	Hardware sender:	67d3109c:67d3109c:67d3109c:67d3109c:67d3109c:67d3109c:
+	
+	Software sender:	67d310a2:67d310a2:67d310a2:67d310a2:
+
+
+Now is time: 1494325899 
+
+
+-------------------------
+-------------------------
+
+
+Received packet number 3 ==> 42
+
+
+Ethernet Layer 
+	
+	Source:	00:e0:4c:81:86:86:
+	
+	Dest:	B4:74:9F:F2:AC:8D:
+	
+	Type:	 ARP
+
+ARP Layer 
+	
+	Hardware type:	256
+	
+	Protocol type:	08
+	
+	Hardware addresses length:	6
+	
+	Protocol addresses length:	4
+	
+	Operation code:	1
+	
+	Hardware sender:	67d7109c:67d7109c:67d7109c:67d7109c:67d7109c:67d7109c:
+	
+	Software sender:	67d710a2:67d710a2:67d710a2:67d710a2:
+
+
+Now is time: 1494325903 
+
+
+-------------------------
+-------------------------
+
+
+Received packet number 4 ==> 42
+
+
+Ethernet Layer 
+	
+
+	Source:	b4:74:9f:f2:ac:8d:
+	
+	Dest:	00:E0:4C:81:86:86:
+	
+	Type:	 ARP
+
+ARP Layer 
+	
+	Hardware type:	256
+	
+	Protocol type:	08
+	
+	Hardware addresses length:	6
+	
+	Protocol addresses length:	4
+	
+	Operation code:	2
+	
+	Hardware sender:	67d7111c:67d7111c:67d7111c:67d7111c:67d7111c:67d7111c:
+	
+	Software sender:	67d71122:67d71122:67d71122:67d71122:
+
+
+Now is time: 1494325903 
+-------------------------
+-------------------------
+
+
+Received packet number 5 ==> 60
+
+
+Ethernet Layer 
+	
+
+	Source:	00:22:68:57:c1:3e:
+	
+	Dest:	FF:FF:FF:FF:FF:FF:
+	
+	Type:	 ARP
+
+
+ARP Layer 
+	
+	Hardware type:	256
+	
+	Protocol type:	08
+	
+	Hardware addresses length:	6
+	
+	Protocol addresses length:	4
+	
+	Operation code:	1
+	
+	Hardware sender:	67db109c:67db109c:67db109c:67db109c:67db109c:67db109c:
+	
+	Software sender:	67db10a2:67db10a2:67db10a2:67db10a2:
+
+
+Now is time: 1494325909 
+
+
+-------------------------
+-------------------------
+
+
+Received packet number 6 ==> 60
+
+
+Ethernet Layer 
+	
+	Source:	00:22:68:57:c1:3e:
+	
+	Dest:	FF:FF:FF:FF:FF:FF:
+	
+	Type:	 ARP
+
+ARP Layer 
+	
+	Hardware type:	256
+	
+	Protocol type:	08
+	
+	Hardware addresses length:	6
+	
+	Protocol addresses length:	4
+	
+	Operation code:	1
+	
+	Hardware sender:	67df109c:67df109c:67df109c:67df109c:67df109c:67df109c:
+	
+	Software sender:	67df10a2:67df10a2:67df10a2:67df10a2:
+
+
+Now is time: 1494325919 
+-------------------------
+-------------------------
+
+
+Received packet number 7 ==> 60
+
+
+Ethernet Layer 
+	
+	Source:	00:22:68:57:c1:3e:
+	
+	Dest:	FF:FF:FF:FF:FF:FF:
+	
+	Type:	 ARP
+
+ARP Layer 
+	
+	Hardware type:	256
+	
+	Protocol type:	08
+	
+	Hardware addresses length:	6
+	
+	Protocol addresses length:	4
+	
+	Operation code:	1
+	
+
+	Hardware sender:	67e3109c:67e3109c:67e3109c:67e3109c:67e3109c:67e3109c:
+	
+	Software sender:	67e310a2:67e310a2:67e310a2:67e310a2:
+
+
+Now is time: 1494325929 
+-------------------------
+-------------------------
+
+
+Received packet number 8 ==> 60
+
+
+Ethernet Layer 
+	
+
+	Source:	00:22:68:57:c1:3e:
+	
+	Dest:	FF:FF:FF:FF:FF:FF:
+	
+	Type:	 ARP
+
+ARP Layer 
+	
+	Hardware type:	256
+	
+	Protocol type:	08
+	
+	Hardware addresses length:	6
+	
+	Protocol addresses length:	4
+	
+	Operation code:	1
+	
+	Hardware sender:	67e7109c:67e7109c:67e7109c:67e7109c:67e7109c:67e7109c:
+	
+	Software sender:	67e710a2:67e710a2:67e710a2:67e710a2:
+
+
+Now is time: 1494325939 
+
+-------------------------
+
